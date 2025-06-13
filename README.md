@@ -15,7 +15,8 @@ The objective is to provide a **comprehensive understanding of the factors influ
 ## 2️⃣ Dashboard Visualizations & Outcomes
 
 ### 📌 Visual 1: **Sales by Region**
-![Sales by Region](screenshots/Screenshot%202025-06-12%20192620.png)
+- ![Screenshot 2025-06-12 192316](https://github.com/user-attachments/assets/f3cef5ea-6452-45a0-a894-723d46506f83)
+
   
 - **Insight:**  
   Western Europe, Central America, and Oceania are the top-performing regions.  
@@ -24,7 +25,8 @@ The objective is to provide a **comprehensive understanding of the factors influ
 ---
 
 ### 📌 Visual 2: **Profit Margin by Category**
-![Profit Margin by Category](screenshots/Screenshot%202025-06-12%20192443.png)
+- ![Screenshot 2025-06-12 192407](https://github.com/user-attachments/assets/6be3a27d-e9a6-49a1-b566-1c268249b52e)
+
 
 - **Insight:**  
   The **Technology** category shows the **highest profit margins**, followed by Office Supplies.  
@@ -33,7 +35,8 @@ The objective is to provide a **comprehensive understanding of the factors influ
 ---
 
 ### 📌 Visual 3: **Shipping Cost Analysis**
-![Shipping Cost Analysis](screenshots/Screenshot%202025-06-12%20192501.png)
+- ![Screenshot 2025-06-12 192443](https://github.com/user-attachments/assets/fd8a2799-a0cf-485c-a764-5a9007388790)
+
 
 - **Insight:**  
   Standard Class maintains the **lowest average shipping cost**, while Same Day and First Class are significantly more expensive.  
@@ -42,7 +45,8 @@ The objective is to provide a **comprehensive understanding of the factors influ
 ---
 
 ### 📌 Visual 4: **Order Priority Breakdown**
-![Order Priority Breakdown](screenshots/Screenshot%202025-06-12%20192316.png)
+- ![Screenshot 2025-06-12 192501](https://github.com/user-attachments/assets/44bafe4c-dde1-4448-9d9c-f12cf512073d)
+
 
 - **Insight:**  
   A majority (**57%**) of orders are labeled **Medium priority**, while **Critical** and **Low** orders represent a much smaller share.  
@@ -76,10 +80,7 @@ The objective is to provide a **comprehensive understanding of the factors influ
 - Extracted valuable business insights using **real-world KPIs**
 - Gained advanced hands-on practice with Tableau features like **calculated fields**, **cross-filtering**, and **visual storytelling**
 
----
+---DASHBOARD
+![Screenshot 2025-06-12 192620](https://github.com/user-attachments/assets/40a70784-f6a5-458c-b678-1998f75fd55d)
+ [View My Tableau Dashboard](https://public.tableau.com/app/profile/susana.de.lama/viz/GlobalStores_17466284136350/Dashboard1)
 
-## 🙋‍♀️ About Me
-
-I'm an aspiring **Data Analyst** with professional experience in **Excel**, **Tableau**, **Power BI**, **SQL**, and **Python**. With a strong background in **merchandise planning**, I specialize in uncovering meaningful trends and creating visuals that support business decision-making.
-
-> 📫 Feel free to connect or provide feedback—I'm always looking to learn and collaborate!
