@@ -84,3 +84,7 @@ The objective is to provide a **comprehensive understanding of the factors influ
 ![Screenshot 2025-06-12 192620](https://github.com/user-attachments/assets/40a70784-f6a5-458c-b678-1998f75fd55d)
  [View My Tableau Dashboard](https://public.tableau.com/app/profile/susana.de.lama/viz/GlobalStores_17466284136350/Dashboard1)
 
+---
+Created by Susana-dLG
+May 2025
+
